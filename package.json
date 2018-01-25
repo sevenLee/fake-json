@@ -2,6 +2,7 @@
   "name": "fack-json",
   "version": "1.0.0",
   "description": "make mock json data easily",
+  "repository": "https://github.com/sevenLee/fake-json",
   "main": "lib/index.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
